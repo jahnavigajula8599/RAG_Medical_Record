@@ -1,0 +1,65 @@
+[PAGE 1 START]
+Synthetic Clinical Record  Hyponatremia Positive Complex  Note: This fictional scenario does NOT contain PHI.
+
+---
+
+**Patient Name**: William Brown    **MRN**: 456789    **Admission Date**: 07/01/2023    **Discharge Date**: 07/31/2023    **Diagnosis at Discharge**: Hyponatremia, Candida auris infection, Chronic Heart Failure (CHF),  Diabetes Mellitus
+
+---
+
+**Emergency Department Note**    Date: 07/01/2023    Findings: 75-year-old male presents with nausea, headache, and confusion. Patient has a known  history of CHF and diabetes. Vital signs on arrival: Temp 98.6 F, Heart Rate 90 bpm, Respiratory  Rate 20 breaths per minute, Blood Pressure 130/80 mmHg, Oxygen Saturation 98% on room air.
+
+---
+
+**Laboratory Report**    Date: 07/01/2023    Findings: Serum sodium level is 125 mEq/L, which is below the normal range of 135-145 mEq/L.  This indicates hyponatremia. Blood glucose is elevated at 200 mg/dL.
+
+---
+
+**Hospitalist Admission Note**    Date: 07/01/2023    Findings: Patient admitted with suspected hyponatremia. The patient is confused and has a  headache. Plan to start treatment with intravenous (IV) sodium solution and monitor closely.
+
+---
+
+**Progress Note**    Date: 07/02/2023    Findings: Patient's sodium levels have improved to 130 mEq/L with IV sodium solution.  However, the patient has developed a fever and a new rash on the right arm.
+[PAGE 1 END]
+
+
+[PAGE 2 START]
+---
+
+**Infectious Disease Consult Note**    Date: 07/03/2023    Findings: Patient's fever and rash are concerning for a possible infection. Blood cultures drawn.  Awaiting results.
+
+---
+
+**Laboratory Report**    Date: 07/04/2023    Findings: Blood cultures positive for Candida auris. This is a hospital-acquired infection.
+
+---
+
+**Progress Note**    Date: 07/05/2023    Findings: Patient diagnosed with Candida auris infection. Plan to start antifungal treatment with  echinocandin.
+
+---
+
+**MAR (Medication Administration Record)**    Date: 07/06/2023    Findings: Patient received IV sodium solution for hyponatremia, echinocandin for Candida auris  infection, and insulin for diabetes.
+
+---
+
+**Dietician Record**    Date: 07/07/2023    Findings: Patient is on a low-sugar diet for diabetes and a low-sodium diet for CHF.
+
+---
+
+**Cardiology Consult Note**    Date: 07/08/2023    Findings: Patient's CHF is stable. Continue current heart failure medications.
+
+---
+
+**Coding Query**    Date: 07/09/2023
+[PAGE 2 END]
+
+
+[PAGE 3 START]
+Findings: Query to the physician regarding the diagnosis of hyponatremia and Candida auris  infection. Physician confirmed the diagnosis of hyponatremia and hospital-acquired Candida  auris infection.
+
+---
+
+**Discharge Summary**    Date: 07/31/2023    Findings: Patient was admitted with hyponatremia, as indicated by low serum sodium levels  and symptoms of nausea, headache, and confusion. The patient's sodium levels improved with  IV sodium solution. However, the patient developed a hospital-acquired Candida auris  infection, which was treated with antifungal medication. The patient's diabetes and CHF were  managed with insulin and heart failure medications, respectively. At discharge, the patient's  sodium level was 135 mEq/L, and the patient's symptoms had improved. The patient will  continue to follow a low-sugar and low-sodium diet at home, and will follow up with  endocrinology, infectious disease, and cardiology.
+
+---
+[PAGE 3 END]
